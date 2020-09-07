@@ -53,7 +53,7 @@
 ### Stats:
 <!-- <img alt="Aviral's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aviral10&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs,prs" /> -->
 
-[![Aviral's github stats](https://github-readme-stats.vercel.app/api?username=aviral10&count_private=true&show_icons=true&theme=tokyonight&cache_second=10000)]
+[![Aviral's github stats](https://github-readme-stats.vercel.app/api?username=aviral10&count_private=true&show_icons=true&theme=tokyonight&cache_second=10000)](https://github.com/aviral10)
 
 
 ### Language stats:
