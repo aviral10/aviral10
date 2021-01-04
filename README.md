@@ -60,7 +60,7 @@
 
 ### Language stats:
 
-<img alt="Aviral's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aviral10&layout=compact&theme=tokyonight&hide=javascript,Jupyter Notebook"/>
+<img alt="Aviral's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aviral10&layout=compact&theme=tokyonight&hide=Jupyter Notebook"/>
 
 ---
 
