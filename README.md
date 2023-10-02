@@ -8,7 +8,7 @@
 <!-- <img src="https://media.giphy.com/media/11ZSwQNWba4YF2/giphy.gif" align="right" width="200px" height="20%" />
  -->
 
-### I'm a CS undergrad.
+### I'm a CS grad.
 
 - 🔭 I’m currently exploring the realms of `Computer Science`
 - 🌱 I’m currently learning about `ReactJS`
