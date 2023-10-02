@@ -72,7 +72,7 @@
 <br/>
 
 [website]: https://blank
-[twitter]: https://twitter.com/i_aviral_
+[twitter]: https://twitter.com/_bigppanda_
 [youtube]: https://youtube.com/__
 [instagram]: https://instagram.com/@@@@
 [linkedin]: https://linkedin.com/in/aviral-rana/
