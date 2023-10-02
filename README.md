@@ -11,9 +11,9 @@
 ### I'm a CS undergrad.
 
 - 🔭 I’m currently exploring the realms of `Computer Science`
-- 🌱 I’m currently learning about `Data Structures and Algorithms`
+- 🌱 I’m currently learning about `ReactJS`
 - 👯 Open to collaborate.
-- 💼  Currently studying so seeking opportunities.
+- 💼 Open to SDE/SWE roles.
 - ⚡ Hobbies: I like watching Anime and sketching.
 
 <br/>
